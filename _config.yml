@@ -104,4 +104,4 @@ theme: minos
 deploy:
   type: git
   repo: https://github.com/lwrsmiling/lwrsmiling.github.io
-  branch: gh-pages
+  branch: master
